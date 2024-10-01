@@ -1,0 +1,5 @@
+.err_msg{
+    text-align: end;
+    color: rgba(255, 0, 0, 0.646);
+    text-shadow: 2px 2px 2px rgba(255, 39, 39, 0.114);
+}

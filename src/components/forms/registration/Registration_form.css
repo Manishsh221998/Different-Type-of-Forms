@@ -1,0 +1,22 @@
+.formRege{
+    width: 450px;
+    background:linear-gradient(#E6E6FA,#FFFFF0) ;
+ }
+ .password-toggle-container {
+    position: relative;
+    /* display: inline-block; */
+   }
+  
+  .password-input {
+    padding-right: 30px;  
+   }
+  
+  .toggle-icon {
+    position: absolute;
+     right: 10px;
+      top: 50%;
+    /* transform: translateY(-50%); */
+    color: rgb(19, 23, 32);
+    cursor: pointer;
+    font-size: 1.1rem;
+   }
